@@ -1,5 +1,5 @@
 import React from "react";
-import "./Task.css";
+import "../styles/Task.css";
 
 function Task({ task: { id, title, state }, onArchive, onPin }) {
   return (

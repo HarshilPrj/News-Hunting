@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import "./TextField.css";
+import "../styles/TextField.css";
 
 const TextField = ({ primary, backgroundColor, size, label, ...props }) => {
   const mode = primary
