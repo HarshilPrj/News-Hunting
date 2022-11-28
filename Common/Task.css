@@ -1,0 +1,13 @@
+.list-item-TASK_INBOX,
+.list-item-TASK_PINNED,
+.list-item-TASK_ARCHIVED {
+  width: 100%;
+  height: 100vh;
+  background-color: aqua;
+}
+
+input {
+  padding: 0.3rem;
+  border: none;
+  margin-top: 0.5rem;
+}
